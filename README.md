@@ -1,1 +1,1 @@
-# Custom-Data-Training-YOLOv10
+# Custom Data Training YOLOv10
